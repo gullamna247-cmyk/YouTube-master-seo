@@ -1,4 +1,4 @@
-to{
+{
   "name": "youtube-master-seo",
   "private": true,
   "version": "1.0.0",
@@ -14,7 +14,7 @@ to{
     "react-router-dom": "^6.23.1",
     "react-helmet-async": "^2.0.5",
     "lucide-react": "^0.378.0",
-    "framer-motion": "^11.0.0"
+    "framer-motion": "^11.0.0",
     "date-fns": "^3.6.0"
   },
   "devDependencies": {
