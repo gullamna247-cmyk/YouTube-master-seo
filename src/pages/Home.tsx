@@ -4,7 +4,7 @@ import { SEO } from '../components/SEO';
 import { Video, Category } from '../types';
 import { ArrowRight, Sparkles, TrendingUp, Zap } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import { motion } from 'motion/react';
+import { motion } from "framer-motion"
 
 export const Home: React.FC = () => {
   const [videos, setVideos] = useState<Video[]>([]);
